@@ -9,6 +9,7 @@ et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 executing==2.1.0
 fastparquet==2024.2.0
+feature-engine==1.8.2
 fonttools==4.55.0
 fsspec==2024.10.0
 greenlet==3.1.1
@@ -42,7 +43,9 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 pyzmq==26.2.0
 scikit-learn==1.6.1
+scikit-plot==0.3.7
 scipy==1.11.4
+seaborn==0.13.2
 six==1.16.0
 SQLAlchemy==2.0.30
 stack-data==0.6.3
@@ -53,3 +56,4 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.2
 wcwidth==0.2.13
+wordcloud==1.9.4
