@@ -9,3 +9,12 @@ Seu objetivo é desenvolver um modelo de previsão de preços a partir do datase
 ## Pre-requisitos
 
 O projeto foi desenvolvido com o Python 3.10.12 e as bibliotecas utilizadas estão no arquivo requirements.txt
+
+## Como executar
+
+- Clonar esse repositório
+- Criar e ativar um ambiente virtual
+- Instalar as do arquivo requirements.txt com "pip install -r requirements.txt"
+- Executar o notebook
+
+Alternativamente, baixe o arquivo do notebook e abra no Google Colab
