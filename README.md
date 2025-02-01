@@ -17,4 +17,5 @@ O projeto foi desenvolvido com o Python 3.10.12 e as bibliotecas utilizadas est�
 - Instalar as do arquivo requirements.txt com "pip install -r requirements.txt"
 - Executar o notebook
 
-Alternativamente, baixe o arquivo do notebook e abra no Google Colab
+Alternativamente, baixe o arquivo do notebook e faça upload no Google Colab
+- Vá em "Ambiente de Execução" -> "Executar tudo"
