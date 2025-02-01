@@ -17,5 +17,9 @@ O projeto foi desenvolvido com o Python 3.10.12 e as bibliotecas utilizadas est�
 - Instalar as do arquivo requirements.txt com "pip install -r requirements.txt"
 - Executar o notebook
 
-Alternativamente, baixe o arquivo do notebook e faça upload no Google Colab
-- Vá em "Ambiente de Execução" -> "Executar tudo"
+
+Alternativamente:
+- Baixar o arquivo do notebook e o arquivo de dados "teste_indicium_precificacao.csv"
+- Fazer o upload do arquivo no Google Colab
+- Criar uma nova pasta neste ambiente chamada "data" e fazer o upload do arquivo de dados nessa pasta
+- Executar o notebook
